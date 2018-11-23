@@ -1,4 +1,4 @@
-lines = [x.strip() for x in open("data/AdventureTime_S1.csv").readlines()]
+lines = [x.strip() for x in open("../data/AdventureTime_S1.csv").readlines()]
 
 even = True
 row = ""
