@@ -1,3 +1,3 @@
 # Adventure Time Tracker
 
-Some markdown files to help you track which adventure time episodes you have watched
+Markdown files to help you track which Adventure Time episodes you've watched
